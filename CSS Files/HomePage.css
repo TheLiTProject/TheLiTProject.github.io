@@ -3,12 +3,14 @@
     top: calc(50% - 300px);
     left: 50%;
     transform: translate(-50%, -50%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .homepageParagraph {
     position: absolute;
     top: calc(50% - 250px);
     left: 50%;
     transform: translate(-50%, -50%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .homepageImage {
     position: absolute;
