@@ -10,3 +10,11 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.homepageImage {
+    position: absolute;
+    top: calc(50% - 250px);
+    left: 38%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+}
