@@ -20,3 +20,26 @@
     width: 200px;
     height: 200px;
 }
+body {
+    display: flex;
+    flex-direction: row;
+}  
+.sidebar {
+    border-style: solid;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+}
+li a {
+    display: block;
+    width: 150px;
+}
+a {
+    text-align: center;
+}
+a:hover {
+    background-color: gray;
+    color: white;
+}
