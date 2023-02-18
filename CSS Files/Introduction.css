@@ -27,3 +27,8 @@ li {
     text-align: center;
     border: 2px dashed black;
 }
+
+.ending  {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
