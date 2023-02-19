@@ -33,6 +33,9 @@ ul {
     margin: 0;
     padding: 0;   
 }
+li {
+    border: 2px solid black;
+}
 li a {
     display: block;
     width: 150px;
