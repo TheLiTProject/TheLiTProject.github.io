@@ -14,3 +14,24 @@ p {
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+    display: inline-block;
+}
+li {
+    border: 2px solid black;
+}
+li a {
+    display: block;
+    width: 150px;
+}
+a {
+    text-align: center;
+}
+a:hover {
+    background-color: gray;
+    color: white;
+}
