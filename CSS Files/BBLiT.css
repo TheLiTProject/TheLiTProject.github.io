@@ -16,6 +16,8 @@ main p {
 }
 .sidebar {
     float: left;
+    border-style: solid;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 main {
