@@ -49,3 +49,8 @@ a:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-right: 100px;
 }
+
+.releases h2 {
+    text-align: right;
+    color: black;
+}
