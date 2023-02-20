@@ -9,7 +9,7 @@ h2 {
     color: blue;
 }
 
-p {
+main p {
     text-align: center;
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -41,4 +41,11 @@ a {
 a:hover {
     background-color: gray;
     color: white;
+}
+
+.releases {
+    text-align: right;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 100px;
 }
