@@ -16,33 +16,28 @@ main p {
 }
 .sidebar {
     float: left;
-    border-style: solid;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 200px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
 }
 
-main {
-    clear: both;
-}
-
-ul {
+.sidebar ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;   
-    display: inline-block;
+    padding: 0;
 }
-li {
-    border: 2px solid black;
-}
-li a {
+
+.sidebar li a {
     display: block;
-    width: 150px;
+    padding: 10px;
+    color: #333;
+    text-decoration: none;
 }
-a {
-    text-align: center;
-}
-a:hover {
-    background-color: gray;
-    color: white;
+
+.sidebar li a:hover {
+    background-color: #333;
+    color: #fff;
 }
 
 .releases {
