@@ -42,6 +42,6 @@ ul {
     font-size: large;
 }
 
-ul {
-    list-style-type: none;
-}
+ul {list-style-type: none;}
+
+img {margin-left: 220px}
